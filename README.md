@@ -7,7 +7,7 @@
 -   📚 Possuo curso técnico em Desenvolvimento Web pelo Instituto Metrópole Digital - UFRN.
 -   🔭 Pretendo fazer graduação em Engenharia de Software.
 -   🌱 Estou focado em aprender React.
--   ⚡ Curiosidade: meu tipo de personalidade é o mesmo de Neo - Matrix ([INTP](<https://pt.wikipedia.org/wiki/INTP_(personalidade)>)
+-   ⚡ Curiosidade: meu tipo de personalidade é o mesmo de Neo - Matrix ([INTP](<https://pt.wikipedia.org/wiki/INTP_(personalidade)>))
 
 ### Linguagens e Ferramentas:
 
