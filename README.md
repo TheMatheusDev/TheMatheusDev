@@ -1,4 +1,4 @@
-### Olá mundo, eu sou o Matheus 👋
+## Olá mundo, eu sou o Matheus 👋
 
  <img align="right" alt="GIF" src="https://github.com/theuskhan/theuskhan/blob/main/code.gif?raw=true" width="500" height="320" />
 
@@ -63,6 +63,6 @@
 
 <span align="center">
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&label=Visitas&color=blueviolet)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=theuskhan&label=Visitas&countColor=%23ba68c8&style=flat-square)
 
 </span>
