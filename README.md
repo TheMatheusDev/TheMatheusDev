@@ -47,4 +47,4 @@
 
 [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' alt='telegram' height='26'>](https://t.me/TheusKhan)
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='telegram' height='26'>](mailto:apenasmatheus1@gmail.com)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=theuskhan&label=Visitas&countColor=%23ba68c8&style=flat-square)
+![](https://komarev.com/ghpvc/?username=theuskhan&label=Visitas&color=blueviolet&style=flat-square)
